@@ -20,5 +20,8 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "mongodb": "6.3.0",
+    "pg": "8.11.3"
+  }
 }
